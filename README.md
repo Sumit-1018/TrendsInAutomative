@@ -53,12 +53,12 @@ Explore the Dashboard:
 You can interact with the dashboard directly in Tableau, filter data, and explore different insights into the used car market. 🏎️📊
 
 
-🔍 How It Works
+#**🔍 How It Works**
 
 This dashboard pulls data from a CSV file containing over 8,000 data points related to used car sales. The data is then visualized in Tableau using different charts and graphs that provide a comprehensive overview of pricing trends, dealer performance, and other metrics. 📉
 
 
-💼 Example Use Cases
+#**💼 Example Use Cases**
 
 Car Dealerships: Gain insights into used car pricing trends, and determine the best time to buy or sell cars. 🚙💵
 
