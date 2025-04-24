@@ -1,4 +1,5 @@
-🚗 #Automotive Trends Dashboard
+# **🚗Automotive Trends Dashboard**
+
 
 An interactive and insightful dashboard built using Tableau to analyze and explore trends in the used car market. This project provides valuable insights into car pricing, fuel types, dealer volumes, and market trends, helping businesses make data-driven decisions. 📊🔍
 
